@@ -1,0 +1,27 @@
+{
+    "author": {
+      "name": "Pro_Fire_Development#0829",
+      "id": "372390836694155264"
+    },
+    "url": ["INSERT_URL_HERE"],
+    "description": {
+      "en": "testing presinces "
+    },
+    "service": "PFD's spagetti ",
+    "version": "1.0.0",
+    "logo": "https://cdn.discordapp.com/attachments/841856719339913257/841857146139836416/PFD.png",
+    "thumbnail": "https://cdn.discordapp.com/attachments/841856719339913257/841857146139836416/PFD.png",
+    "color": "#ed9315",
+    "tags": [
+      "PFD_test"
+    ],
+    "category": "other",
+    "settings": [
+        {
+          "id": "PLACE_HOLDER_TEXT",
+          "title": "PLACE_HOLDER_TEXT",
+          "icon": "PLACE_HOLDER_TEXT",
+          "value": false
+        }
+    ]
+}  
